@@ -6,7 +6,7 @@ I'm a full-stack software developer who thrives on building cool things from scr
 
 My journey into tech started in high school, where I spent three years immersed in mobile app development. I fell in love with the process of turning an idea and a blank screen into something real and functional. After graduating, I took a detour into the world of competitive Fortnite, playing at a semi-pro level for about a year. Then came my first attempt at college for computer science — which got cut short thanks to COVID.
 
-Around that same time, life gave me two incredible things: the news that I’d soon be a father, and the chance to marry my best friend. I spent the next few years working in retail banking, developing the kind of communication and people skills that tech folks don’t usually talk about — but they’re real, and they matter.
+Around that same time, life gave me two incredible things: the news that I’d soon be a father, and the chance to marry my best friend. I spent the next few years working in retail banking, developing the kind of communication and people skills that tech folks don’t usually talk about.
 
 Eventually, the opportunity to chase my dream came back around, and I took it. I joined the Hack Reactor full-stack software engineering bootcamp and never looked back.
 
