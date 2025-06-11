@@ -23,7 +23,7 @@ I'm always open to interesting projects, freelance work, or just talking shop. F
 Here’s what I’ve worked with professionally, through bootcamp, or self-taught along the way:
 
 **Languages**  
-- Python 🐍  
+- Python  
 - JavaScript (ES6+)  
 - TypeScript  
 - SQL
