@@ -15,7 +15,7 @@ Eventually, the opportunity to chase my dream came back around, and I took it. I
 I'm always open to interesting projects, freelance work, or just talking shop. Feel free to reach out:
 
 - 📧 Email: [nfant01@gmail.com](mailto:nfant01@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nathan-fant-a28405250](https://www.linkedin.com/in/nathan-fant-a28405250/)  
+- 💼 LinkedIn: [linkedin.com/in/nathanfant](https://www.linkedin.com/in/nathanfant/)  
 - 💬 Discord: `@nathanf`
 
 ## 🛠 Tech Stack
