@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nathan Fant — Software Developer, Builder, and Problem Solver
+# 👋 Hey, I'm Nathan Fant - Software Developer, Builder, and Problem Solver
 
 ## 🧠 About Me
 
