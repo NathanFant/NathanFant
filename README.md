@@ -1,59 +1,79 @@
-# 👋 Hey, I'm Nathan Fant - Software Developer, Builder, and Problem Solver
+# Hey, I'm Nathan 👋
 
-## 🧠 About Me
+**Software Developer** | DevEx & Open Source Contributor | Python, TypeScript, React
 
-I'm a full-stack software developer who thrives on building cool things from scratch and solving problems with clean, practical code.
-
-My journey into tech started in high school, where I spent three years immersed in mobile app development. I fell in love with the process of turning an idea and a blank screen into something real and functional. After graduating, I took a detour into the world of competitive Fortnite, playing at a semi-pro level for about a year. Then came my first attempt at college for computer science — which got cut short thanks to COVID.
-
-Around that same time, life gave me two incredible things: the news that I’d soon be a father, and the chance to marry my best friend. I spent the next few years working in retail banking, developing the kind of communication and people skills that tech folks don’t usually talk about.
-
-Eventually, the opportunity to chase my dream came back around, and I took it. I joined the Hack Reactor full-stack software engineering bootcamp and never looked back.
-
-## 📬 Contact Me
-
-I'm always open to interesting projects, freelance work, or just talking shop. Feel free to reach out:
-
-- 📧 Email: [nfant01@gmail.com](mailto:nfant01@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nathanfant](https://www.linkedin.com/in/nathanfant/)  
-- 💬 Discord: `@nathanf`
-
-## 🛠 Tech Stack
-
-Here’s what I’ve worked with professionally, through bootcamp, or self-taught along the way:
-
-**Languages**  
-- Python  
-- JavaScript (ES6+)  
-- TypeScript  
-- SQL
-
-**Frameworks & Libraries**  
-- FastAPI (Python)  
-- React (JavaScript/TypeScript)  
-- Tailwind CSS  
-
-**Databases**  
-- PostgreSQL  
-- SQLite  
-
-**Other Tools**  
-- Git & GitHub  
-- Docker  
-- VSCode  
-- REST APIs  
-- HTML / CSS
-
-## 🤘 Hobbies
-
-Outside of writing code, I’m into:
-
-- 🧠 Building custom PCs and keyboards  
-- 🚗 Looking at cars I definitely can't afford (BMW enthusiast — ask me about the E36 Lightweight)  
-- 🎮 Gaming (competitive roots, casual vibes now)  
-- 📺 Watching dev content and learning how AI tools work under the hood  
-- ☕ Spending quality time with my wife and our son
+I build tools that make developers' lives easier. Currently contributing to open source projects focused on improving CI/CD, test infrastructure, and contributor onboarding.
 
 ---
 
-Thanks for stopping by — feel free to reach out, especially if you're building something cool 🚀
+### 🔭 What I'm Working On
+
+- **[Cosmos](https://github.com/pagalmes/company-fit-explorer)** — DevEx contributions: automated test user seeding, ESLint migration, CI/CD improvements
+- Building high-performance Python tools with AsyncIO and Playwright
+- Learning Django to expand my backend toolkit
+
+### 🚀 Recent Contributions
+
+[![PR #94](https://img.shields.io/badge/PR%20%2394-Merged-success?logo=github)](https://github.com/pagalmes/company-fit-explorer/pull/94) Automated test user seeding for easier dev onboarding
+[![PR #93](https://img.shields.io/badge/PR%20%2393-Merged-success?logo=github)](https://github.com/pagalmes/company-fit-explorer/pull/93) Documentation improvements for missing API config
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanFant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanFant&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanFant&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,postgres,docker,git,linux,tailwind,vscode" />
+</p>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | FastAPI, Flask, AsyncIO |
+| **DevEx/Testing** | Vitest, Playwright, GitHub Actions |
+| **Data** | PostgreSQL, SQLite, SQLAlchemy |
+
+---
+
+### 🧠 About Me
+
+Career changer who went from banking to building software. Spent 5 years translating complex financial products into plain English — now I do the same with code.
+
+Started coding in high school (mobile apps), took a detour through competitive esports and retail banking, then went all-in on software engineering through Hack Reactor.
+
+**What drives me:** Making things that help other people ship faster. Whether that's fixing flaky tests, writing docs that actually help, or building tools that eliminate friction.
+
+---
+
+### 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-nfant01%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nfant01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanfant-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanfant/)
+[![Discord](https://img.shields.io/badge/Discord-nathanf-5865F2?logo=discord&logoColor=white)](https://discord.com)
+
+---
+
+### ⚡ Fun Facts
+
+- 🚗 BMW enthusiast (ask me about the E36 Lightweight)
+- ⌨️ Custom Keyboard Builder
+- 🎮 Former semi-professional Fortnite player
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NathanFant&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
