@@ -41,9 +41,9 @@ I build tools that make developers' lives easier. Currently contributing to open
 
 ### 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,postgres,docker,git,linux,tailwind,vscode" />
-</p>
+
 
 | Category | Technologies |
 |----------|-------------|
@@ -52,6 +52,9 @@ I build tools that make developers' lives easier. Currently contributing to open
 | **Backend** | FastAPI, Flask, AsyncIO |
 | **DevEx/Testing** | Vitest, Playwright, GitHub Actions |
 | **Data** | PostgreSQL, SQLite, SQLAlchemy |
+
+</div>
+
 
 ---
 
