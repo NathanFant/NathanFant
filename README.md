@@ -15,9 +15,13 @@ I build tools that make developers' lives easier. Currently contributing to open
 ### 🚀 Recent Contributions
 
 [![a916cda](https://img.shields.io/badge/a916cda-Contribution-success?logo=github)](https://github.com/NathanFant/company-fit-explorer/commit/a916cda) fix: Center toast notifications under Explore/Watchlist tabs
+
 [![68c4ac5](https://img.shields.io/badge/68c4ac5-Contribution-success?logo=github)](https://github.com/NathanFant/company-fit-explorer/commit/68c4ac5) Merge pull request #93 from pagalmes/docs/add-perplexity-api-key-config
+
 [![e796ada](https://img.shields.io/badge/e796ada-Contribution-success?logo=github)](https://github.com/NathanFant/company-fit-explorer/commit/e796ada) Merge branch 'main' into feature/ease-dev-onboarding-14
+
 [![4b1b0b8](https://img.shields.io/badge/4b1b0b8-Contribution-success?logo=github)](https://github.com/NathanFant/company-fit-explorer/commit/4b1b0b8) Merge pull request #94 from pagalmes/feature/ease-dev-onboarding-14
+
 [![218a29c](https://img.shields.io/badge/218a29c-Contribution-success?logo=github)](https://github.com/NathanFant/company-fit-explorer/commit/218a29c) docs: Add Perplexity API key configuration to .env.example
 
 ---
