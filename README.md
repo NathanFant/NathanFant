@@ -1,72 +1,168 @@
 # Hey, I'm Nathan 👋
 
-**Software Developer** | DevEx & Open Source Contributor | Python, TypeScript, React
+**Engineer. Operator. Builder.**
 
-I build tools that make developers' lives easier. Currently contributing to open source projects focused on improving CI/CD, test infrastructure, and contributor onboarding.
+I build software, businesses, and the systems that run them.
 
----
+I'm currently operating Terrabyte, a services business supported by custom software and workflow automation, while continuing to build products, contribute to open source, and deepen my experience in software engineering.
 
-### 🔭 What I'm Working On
-
-- **[Cosmos](https://github.com/pagalmes/company-fit-explorer)** — DevEx contributions: automated test user seeding, ESLint migration, CI/CD improvements
-- Building high-performance Python tools with AsyncIO and Playwright
-- Contributing to open-source projects focused on developer experience and infrastructure
+What tends to motivate me is finding a messy process, understanding how it works, and building systems that make it easier to operate, scale, and improve.
 
 ---
 
-### 📊 GitHub Stats
+## What I'm Building
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanFant&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
+### Terrabyte
+A services business supported by custom software and automation.
 
----
+Built systems that handle:
 
-### 🛠 Tech Stack
+- Quote generation
+- Proposal creation
+- Scheduling
+- Receipt processing
+- OCR workflows
+- Invoice generation
+- Expense reconciliation
+- Payroll automation
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,postgres,docker,git,linux,tailwind,vscode" />
-
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, TypeScript, JavaScript, SQL |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | FastAPI, Flask, AsyncIO |
-| **DevEx/Testing** | Vitest, Playwright, GitHub Actions |
-| **Data** | PostgreSQL, SQLite, SQLAlchemy |
-
-</div>
-
+Current focus is expanding the operating model into additional businesses while continuing to improve the software behind it.
 
 ---
 
-### 🧠 About Me
+## Selected Work
 
-Career changer who went from banking to building software. Spent 5 years translating complex financial products into plain English — now I do the same with code.
+### Cosmos — Primary Maintainer
 
-Started coding in high school (mobile apps), took a detour through competitive esports and retail banking, then went all-in on software engineering through Hack Reactor.
+Took over as the primary maintainer of an open-source career exploration platform after the original team stepped back.
 
-**What drives me:** Making things that help other people ship faster. Whether that's fixing flaky tests, writing docs that actually help, or building tools that eliminate friction.
+Highlights:
 
----
+- Automated test-user seeding
+- Improved onboarding workflows
+- Reduced pre-commit times from minutes to seconds
+- Reworked AI extraction systems using scoring and validation gates
+- Improved test infrastructure and CI/CD reliability
 
-### 📬 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-nfant01%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nfant01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanfant-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanfant/)
-[![Discord](https://img.shields.io/badge/Discord-nathanf-5865F2?logo=discord&logoColor=white)](https://discord.com)
-
----
-
-### ⚡ Fun Facts
-
-- 🚗 BMW enthusiast (ask me about the E36 Lightweight)
-- ⌨️ Custom Keyboard Builder
-- 🎮 Former semi-professional Fortnite player
+**Tech:** Next.js, TypeScript, Playwright, Vitest, Supabase, GitHub Actions
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NathanFant&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+### OpenClaw — Contributor
+
+Contributed fixes to a production TypeScript/Node.js CLI application.
+
+Highlights:
+
+- Fixed Windows/macOS issues
+- Fixed flaky CI failures
+- Added regression tests
+- Resolved timestamp and uninstall bugs
+
+**Tech:** TypeScript, Node.js, Vitest, GitHub Actions
+
+---
+
+### Trades.io
+
+Led backend development for a team-built job marketplace application.
+
+Highlights:
+
+- Authentication & authorization
+- Email notifications
+- CI/CD pipelines
+- Dockerized environments
+
+**Tech:** Python, FastAPI, PostgreSQL, React, Docker, GitHub Actions
+
+---
+
+## Technical Interests
+
+- Product Engineering
+- Workflow Automation
+- Business Systems
+- AI Applications
+- Developer Experience
+- Internal Tooling
+- Data Pipelines
+- Full-Stack Development
+
+---
+
+## Tech Stack
+
+### Languages
+- TypeScript
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- React
+- Next.js
+- Astro
+- Tailwind CSS
+
+### Backend
+- Node.js
+- FastAPI
+- REST APIs
+
+### Data
+- PostgreSQL
+- Supabase
+
+### Testing & CI/CD
+- Playwright
+- Vitest
+- GitHub Actions
+
+### Automation
+- OCR Workflows
+- AI-Assisted Development
+- Business Process Automation
+
+---
+
+## A Little About Me
+
+I started programming in high school, spent time competing in esports, built a career in banking, and eventually made my way back into software engineering.
+
+Along the way I've been:
+
+- A competitive gamer
+- A banker
+- An open-source maintainer
+- A founder
+- A software engineer
+
+The common thread has always been the same:
+
+> Learn complex systems, understand how they work, then improve them.
+
+---
+
+## Current Focus
+
+Right now I'm most interested in:
+
+- Product Engineering
+- AI-native software
+- Founder-led startups
+- Business automation
+- Building software that creates leverage
+
+---
+
+## Connect
+
+**GitHub**  
+github.com/NathanFant
+
+**LinkedIn**  
+linkedin.com/in/nathanfant
+
+**Email**  
+nfant01@gmail.com
