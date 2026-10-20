@@ -186,8 +186,8 @@ Right now I'm most interested in:
 
 ## Connect
 
-![LinkedIn](linkedin.com/in/nathanfant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Fant-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nathanfant)
 
-![Email](nfant01@gmail.com)nfant01@gmail.com
+[![Email](https://img.shields.io/badge/Email-nfant01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfant01@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFant&layout=compact&hide_border=true)
